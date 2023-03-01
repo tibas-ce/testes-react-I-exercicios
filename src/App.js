@@ -1,4 +1,4 @@
-import Calculator from "./tests/Calculator";
+import Calculator from "./components/Calculator";
 
 const App = () => {
   return (
