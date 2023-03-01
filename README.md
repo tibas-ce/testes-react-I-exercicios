@@ -25,5 +25,6 @@ Garanta em pelo menos um teste que concatenar operações está funcionando corr
 ### Terminou e sobrou tempo?
 
 Implemente mais testes relacionados à usabilidade da calculadora!
+- os dígitos númericos também renderizam corretamente
 - as outras operações também funcionam corretamente (-, + e /)
 - dividir por 0 gera NaN
